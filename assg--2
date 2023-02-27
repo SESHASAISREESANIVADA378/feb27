@@ -2,7 +2,7 @@
 Use nested while loop. For eg. Input : 456, output : 6 (not 15, because again u need to sum of 1+5 also)*/
 
 #include <stdio.h>
-int main()
+main()
 {
     int i=1,n,sum=0,r;
     scanf("%d",&n);
